@@ -1,2 +1,2 @@
 # test-projet-php
-bor3i
+bor3i *2 
